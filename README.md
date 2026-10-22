@@ -8,11 +8,11 @@
 - Videojuegos.
 - Ropa.
 - Computadoras, componentes y etc.
-- ## Contacto
-- 📧 Dsantana6@ucol.mx
 - ## Tecnologías que quiero aprender...
 - JavaScript / TypeScript
 - **Python**
 - PostgreSQL
 - MongoDB
 - *etc.*
+- ## Contacto
+- 📧 Dsantana6@ucol.mx
