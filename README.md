@@ -12,7 +12,7 @@
 - 📧 Dsantana6@ucol.mx
 -
 -
-- Tecnologías que quiero aprender...
+- ## Tecnologías que quiero aprender...
 - JavaScript / TypeScript
 - **Python**
 - PostgreSQL
